@@ -1,2 +1,2 @@
 # ESL-KMITL
-all project did with ESL (Embedded System Laboratory) at KMITL
+all projects that I did with ESL (Embedded System Laboratory) at KMITL
